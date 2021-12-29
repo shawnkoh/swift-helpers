@@ -1,5 +1,5 @@
-import XCTest
 @testable import swift_helpers
+import XCTest
 
 final class swift_helpersTests: XCTestCase {
     func testExample() throws {
